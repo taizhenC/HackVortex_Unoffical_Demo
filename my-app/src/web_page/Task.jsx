@@ -9,5 +9,4 @@ export default function Task() {
     <h1>pdx is sb</h1>
     </>
   )
-  
 }
