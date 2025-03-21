@@ -10,3 +10,11 @@
     -webkit-backdrop-filter: blur(64px);
   }
 }
+
+@layer components {
+  @media print {
+    section {
+      page-break-before: always; /* Forces a page break before the section when printing */
+    }
+  }
+}
