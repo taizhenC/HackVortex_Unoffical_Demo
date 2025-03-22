@@ -53,7 +53,7 @@ export default function Home() {
       <section className="min-h-screen text-white pt-32 bg-gradient-to-b from-black to-gray-900">
         <div className="max-w-5xl mx-auto px-8">
           <h2 className="text-2xl font-bold mb-8">Game Introduction</h2>
-          <p className="text-lg">This is game introduction!</p>
+          <p className="text-lg">This is gamed introduction!</p>
         </div>
       </section>
       
